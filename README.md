@@ -4,7 +4,7 @@ A tool designed to identify, track, and visualise disruption data related to acc
 
 ## The Problem
 
-For many passengers with accessibility needs, being informed about a station's step-free status is esential. All too often people find out lifts are out of service only when they reach the station, delaying their journey's and causing undue stress.
+For many passengers with accessibility needs, being informed about a station's step-free status is a hassle. All too often people only find out lifts are out of service when they reach a station, delaying their journey and causing undue stress.
 
 Watch the video below:
 
