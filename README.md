@@ -6,18 +6,9 @@ A tool designed to identify, track, and visualise disruption data related to acc
 
 For many passengers with accessibility needs, being informed about a station's step-free status is esential. All too often people find out lifts are out of service only when they reach the station, delaying their journey's and causing undue stress.
 
-
-Storyboard -->>
-
-Take Sue. Sue is an imaginary wheelchair user who depends on step-free access to reach her destination.  
-(train and wheelchair)
-
-Sue planned her journey the day before, making sure she knows the best route to reach her destination.
-(home and phone)
-
-Whilst Sue is setting off, a lift at her interchange station goes out of service. Without her knowledge, her journey would get delayed... **HOWEVER** ...Sue signed up to AccessTransport. That morning, Sue's phone notified her as soon as the lift outage occured. It even rerouted her journey for her. With AccessTransport, Sue doesn't need to worry about her journey anymore. 
-
-You don't deserve to be delay, and neither should Sue.
+<a href="https://www.youtube.com/watch?v=EZS0XN-p6jE" target="_blank">
+  <img src="https://github.com/user-attachments/assets/c5f18e45-37d0-4362-a542-63ac3a5afd8a" alt="Watch the AccessTransport video" width="800">
+</a>
 
 ---
 
