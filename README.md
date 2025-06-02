@@ -33,11 +33,11 @@ This project addresses the problem by:
 - PostgreSQL: Backend storage
 
 ## Development Phases
-- [x] **Phase One:** Deploy project to a Streamlit dashboard
-- [ ] **Phase Two:** Migrate project to a unified app for enhanced usability and notifications
 
 ### Phase One
+- [x] **Phase One:** Deploy project to a Streamlit dashboard
 
 ### Phase Two
+- [ ] **Phase Two:** Migrate project to a unified app for enhanced usability and notifications
 ![AccessDashboard](https://github.com/user-attachments/assets/04b41497-f78d-4776-8af5-d1efda6af9a6)
 
