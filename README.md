@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/c0edcb78-ae45-46cf-9794-15f6a3c167ac
 
 While Transport for London (TfL) does publish accessibility and disruption information, it is often:
 - Hard to navigate in real-time
-- Not centralised for accessibility-specific concerns
+- Not centralised for accessibility concerns
 - Lacking historical insight into how often disruptions affect certain stations
 
 ---
@@ -35,3 +35,9 @@ This project addresses the problem by:
 ## Development Phases
 - [x] **Phase One:** Deploy project to a Streamlit dashboard
 - [ ] **Phase Two:** Migrate project to a unified app for enhanced usability and notifications
+
+### Phase One
+
+### Phase Two
+![AccessDashboard](https://github.com/user-attachments/assets/04b41497-f78d-4776-8af5-d1efda6af9a6)
+
