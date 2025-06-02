@@ -6,11 +6,7 @@ A tool designed to identify, track, and visualise disruption data related to acc
 
 For many passengers with accessibility needs, being informed about a station's step-free status is a hassle. All too often people only find out lifts are out of service when they reach a station, delaying their journey and causing undue stress.
 
-Watch the video below:
-
-<a href="https://www.youtube.com/watch?v=EZS0XN-p6jE" target="_blank">
-  <img src="https://github.com/user-attachments/assets/c5f18e45-37d0-4362-a542-63ac3a5afd8a" alt="Watch the AccessTransport video" width="800">
-</a>
+https://github.com/user-attachments/assets/c0edcb78-ae45-46cf-9794-15f6a3c167ac
 
 ---
 
