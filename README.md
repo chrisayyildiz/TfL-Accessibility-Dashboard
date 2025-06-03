@@ -32,6 +32,11 @@ This project addresses the problem by:
 - Pandas: Data processing and transformation
 - PostgreSQL: Backend storage
 
+## Station Level Data Collection
+Extracted from the TfL Unified API, transformed to feature accessibility markers, and subsequently loaded.
+
+<img width="1229" alt="Screenshot 2025-06-02 at 22 36 29" src="https://github.com/user-attachments/assets/e0baf285-1c77-4d81-9fb3-9db48145c114" />
+
 ## Development Phases
 
 ### Phase One
